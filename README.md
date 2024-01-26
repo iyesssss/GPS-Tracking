@@ -4,6 +4,9 @@
     <div class="container">
         <h1>RealTime Locator - A Simplified Location Sharing Platform</h1>
         <p>Introducing RealTime Locator, an elegantly simple platform revolutionizing the way you share and track locations in real-time. This user-friendly script, leveraging the power of Mapbox API, provides an intuitive interface for seamless location sharing.</p>
+        <a href="https://ibb.co/sw5Wz0p"><img src="https://i.ibb.co/nc3PtHq/receiver.png" alt="receiver" border="0"></a>
+<a href="https://ibb.co/PWTDkwF"><img src="https://i.ibb.co/94wZPsc/track001.png" alt="track001" border="0"></a>
+<a href="https://ibb.co/jrRfpjM"><img src="https://i.ibb.co/9rtgMdT/tracksat.png" alt="tracksat" border="0"></a>
         <h2>Key Features:</h2>
         <ul>
             <li><strong>Effortless Link Generation:</strong> Create a unique link in just a few clicks and share it instantly with friends or family. They can track your location in real-time, ensuring you're always connected.</li>
