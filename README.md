@@ -1,3 +1,5 @@
+Location sharing
+
 Description:
 
 Introducing RealTime Locator, an elegantly simple platform revolutionizing the way you share and track locations in real-time. This user-friendly script, leveraging the power of Mapbox API, provides an intuitive interface for seamless location sharing.
